@@ -1,5 +1,5 @@
 # Lyricify
-This is a small app that allows users to find song's lyrics using **MusixMatch** developers API. It also fetches the songs album cover from other external API to give users a image preview and help them identify the corresponding artists. 
+This is a small app that allows users to find a song's lyrics using **MusixMatch** developers API. It also fetches the songs album cover from other external API to give users an image preview and help them identify the corresponding artists. 
 
 <img src="/Screens/Screenshot.jpg"
      alt="React Lyricify"
