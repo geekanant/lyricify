@@ -16,7 +16,7 @@ class Search extends Component {
   }
 
   componentDidMount() {
-    Math.floor(Math.random()*2) === 0 ? this.setState({description:'Get the lyrics for any Song!'}) : this.setState({description:'This is one of my personal projects'}) 
+     this.setState({description:'Get the lyrics for any Song!'})
   }
 
   findTrack = (dispatch, e) => {
